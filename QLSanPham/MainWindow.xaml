@@ -16,7 +16,7 @@
             
         </DataGrid>
         <Button x:Name="btnthem" Content="Thêm" HorizontalAlignment="Left" Margin="188,392,0,0" VerticalAlignment="Top" Height="35" Width="68" FontWeight="Bold" FontSize="14" Click="btnthem_Click"/>
-        <Button x:Name="btnsua" Content="Sửa" HorizontalAlignment="Left" Margin="305,392,0,0" VerticalAlignment="Top" Height="35" Width="68" FontWeight="Bold" FontSize="14" Click="btnsua_Click"/>
+        <Button x:Name="btnsua" Content="Sửa" HorizontalAlignment="Left" Margin="305,391,0,0" VerticalAlignment="Top" Height="35" Width="68" FontWeight="Bold" FontSize="14" Click="btnsua_Click"/>
         <Button x:Name="btnxoa" Content="Xoá" HorizontalAlignment="Left" Margin="422,392,0,0" VerticalAlignment="Top" Height="35" Width="68" FontWeight="Bold" FontSize="14" Click="btnxoa_Click"/>
         <Button x:Name="btnthoat" Content="Thoát" HorizontalAlignment="Left" Margin="540,392,0,0" VerticalAlignment="Top" Height="35" Width="68" FontWeight="Bold" FontSize="14" Click="btnthoat_Click"/>
 
